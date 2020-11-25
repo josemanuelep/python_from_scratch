@@ -1,6 +1,6 @@
 # python_from_scratch
 
-Libraries:
+## Libraries:
 
--Gettext()
--unitest
+* Gettext()
+* Unitest
