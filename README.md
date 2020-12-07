@@ -18,3 +18,4 @@
 
 * leave a line at the end of a python file
 * Use scape characters
+* Python is the best language for manage datasets and IA
