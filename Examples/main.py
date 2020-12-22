@@ -2,6 +2,7 @@ import requests
 import logging
 
 response = requests.get('https://httpbin.org/ip')
+response.
 
 print('Your IP is {0}'.format(response.json()['origin']))
 
