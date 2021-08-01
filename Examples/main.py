@@ -2,8 +2,5 @@ import requests
 import logging
 
 response = requests.get('https://httpbin.org/ip')
-response.
 
-print('Your IP is {0}'.format(response.json()['origin']))
-
-logging.warning('Watch out!')  # will print a message to the console
+logging.warning('Your IP is {0}'.format(response.json()['origin']))
