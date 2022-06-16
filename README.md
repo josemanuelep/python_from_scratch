@@ -6,6 +6,10 @@
 
 * [n Python from scratch to building cool projects](https://www.udemy.com/course/the-complete-python-programmer-from-scratch-to-applications/learn/lecture/21534074?start=75#announcements) - Udemy course
 
+My firts project to test a api with python
+
+https://github.com/josemanuelep/chatbot-tests
+
 ##  PyPI Libraries:
 
 * Gettext()
